@@ -84,3 +84,7 @@ body {
 	margin-right: auto;
 	border: none;
 }
+
+.CodeMirror {
+    height: 100%;
+}
